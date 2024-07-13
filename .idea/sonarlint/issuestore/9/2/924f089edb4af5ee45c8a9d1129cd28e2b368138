@@ -1,9 +1,8 @@
 
-T
-java:S2589#"7Remove this expression which always evaluates to "true"(ö’Ú½8È¾ìŠ2
-r	java:S106"+Replace this use of System.out by a logger.(ÖÎ“Ãüÿÿÿÿ8ÖÎëŠ2J$2c86a7e5-1f36-4f35-a246-be8615388174
-r	java:S106"+Replace this use of System.out by a logger.(ßéÜøÿÿÿÿ8ÖÎëŠ2J$eb8ff3ff-00aa-4d4a-8483-edf72edbdfca
-m	java:S106"+Replace this use of System.out by a logger.(¥ÿ8ÖÎëŠ2J$fd3d3013-9f95-4742-82cf-782e53d135de
-m	java:S106"+Replace this use of System.out by a logger.(ı²˜8ÖÎëŠ2J$fc24b3c1-70a3-4d43-aa2f-45a120704b07
-r	java:S106"+Replace this use of System.out by a logger.(–ªı¶ıÿÿÿÿ8ÖÎëŠ2J$aa425fb0-f8fb-4b44-bddf-f6353dc7b927
-m	java:S106&"+Replace this use of System.out by a logger.(ÏõŸ8ÖÎëŠ2J$d621cbd0-eae6-45cc-8174-a59bdcab24af
+]
+java:S1220""Move this file to a named package.8­¢øĞŠ2J$ec14ac0d-4c9e-4945-91ee-24780cf11e0c
+r	java:S106"+Replace this use of System.out by a logger.(ÖÎ“Ãüÿÿÿÿ8ÖÎëŠ2J$5ec29f35-0a14-4d80-949f-99079b475678
+r	java:S106"+Replace this use of System.out by a logger.(ßéÜøÿÿÿÿ8ÖÎëŠ2J$8e722f8f-bb12-43a0-bd42-7ae21918ed45
+m	java:S106"+Replace this use of System.out by a logger.(¥ÿ8ÖÎëŠ2J$5f6a05b1-5544-4964-9846-2bcb4eec0875
+m	java:S106"+Replace this use of System.out by a logger.(ı²˜8ÖÎëŠ2J$4deeec70-f237-4e4f-8d59-b613b2ef10c4
+r	java:S106"+Replace this use of System.out by a logger.(ıêŒµşÿÿÿÿ8ñ¢øĞŠ2J$701b3818-b606-4947-b80a-ed8b91bd9485
